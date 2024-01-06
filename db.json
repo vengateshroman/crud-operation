@@ -1,0 +1,30 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "vengatesh",
+      "email": "vengat7@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "ronaldo",
+      "email": "ronaldo7@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "virat kohli",
+      "email": "virat18@gmail.com"
+    },
+    {
+      "name": "vijay",
+      "email": "vijay7@.gmail.cpm",
+      "Email": "krish@gmail",
+      "id": 6
+    },
+    {
+      "name": "vijaykumar",
+      "email": "vijay88@gmailcom",
+      "id": 7
+    }
+  ]
+}
